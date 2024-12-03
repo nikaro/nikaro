@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a rel="me" href="https://indieweb.social/@nikaro"></a>
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
